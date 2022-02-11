@@ -10,12 +10,12 @@ Repositório do Bootcamp Inter Frontend Developer
 
 ### Projeto Shopping DIO
 
-- Repositório Back-end NodeJS
-- Repositório Front-end React
+- [Repositório Back-end NodeJS](https://github.com/edumanoel/dio-bootcamp-front-end-inter/tree/master/dioshopping-api)
+- [Repositório Front-end React](https://github.com/edumanoel/dio-bootcamp-front-end-inter/tree/master/dioshopping-front)
 
 ### Microserviço de autenticação com NodeJS
 
-- Repositório API NodeJS
+- [Repositório API NodeJS](https://github.com/edumanoel/dio-bootcamp-front-end-inter/tree/master/node-user-authentication-api)
 
 ## Links úteis
 
